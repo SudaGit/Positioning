@@ -1,0 +1,30 @@
+#dp1 {
+	padding: 2px;
+	background: #666;
+	margin: 3px;
+
+}
+
+#dp2 {
+	width =300px;
+height: 300px;
+padding: 2px;
+	background: blue;
+	margin: 10px;
+	position:relative;
+}
+
+#dp3 {
+
+padding:10px;
+margin:20px;
+background:white;
+position:absolute;
+Top: 50;
+bottom:100;
+}
+
+#i1 {
+	width=50;
+	height=50;
+}
